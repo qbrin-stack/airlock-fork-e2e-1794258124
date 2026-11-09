@@ -1,0 +1,3 @@
+review:
+  fail_on: high
+  max_findings: 10
